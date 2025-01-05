@@ -27,7 +27,10 @@ docker run -dit --platform linux/arm64 --name $CONTAINER_NAME -p 3006:3006 $IMAG
 
 # Verify if the container started correctly
 docker ps -a | grep $CONTAINER_NAME
-if [ $? -ne 0 ]; then
+if [ $? -eq 0 ]; then
+  echo "Container started successfully with image: $IMAGE_NAME"
+else
   echo "The container is not running. Checking logs..."
   docker logs $CONTAINER_NAME
+  exit 1
 fi
