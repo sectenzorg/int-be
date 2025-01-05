@@ -1,19 +1,17 @@
 # 🚀 **Welcome to the int-be Application Setup Guide**
 
-Thank you for choosing the **int-be** project! We're delighted to guide you through the setup and running process. Follow the instructions below to get your application up and running smoothly. We hope you enjoy your experience with it!
+Thank you for choosing the **int-be** project! We're excited to guide you through the setup and running process. Follow the instructions below to get your application up and running smoothly. We hope you enjoy your experience with it!
 
 &nbsp;
 
 ## 📬 Need Help or Have Questions?
 
-If you run into any issues or require support, please don't hesitate to reach out:
+If you encounter any issues or need support, please don't hesitate to reach out:
 
-- Visit our website: [https://syarifabdillah.my.id](https://syarifabdillah.my.id) for more details.
+- Visit our website: [https://syarifabdillah.my.id](https://syarifabdillah.my.id) for more information.
 - Contact us via email: [hello@syarifabdillah.my.id](mailto:hello@syarifabdillah.my.id).
 
 &nbsp;
-
----
 
 ### 🌟 **Greetings and Best Wishes!**
 
